@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Food_ordering_web
 
 ![WhatsApp Image 2024-07-31 at 12 14 34_7f6a556a](https://github.com/user-attachments/assets/06f6422f-2fa0-4b6f-a6b1-ff1fce770392)
@@ -29,4 +28,4 @@ This project allows users to search for food, view menu items, and place food or
 1. Clone this repository:
    ```bash
    git clone https://github.com/itashwani1/Food-Ordering-Web.git
->>>>>>> e45096bb529a6bd54dd90908550c6b713f4b3c10
+
